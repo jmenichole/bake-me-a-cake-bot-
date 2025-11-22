@@ -5,10 +5,13 @@ A comprehensive web-based platform for custom bakers to accept orders through AI
 ## Features
 
 - **AI-Powered Cake Design**: Convert text descriptions into realistic cake mockups
+- **Custom AI Training**: Train on baker's actual cake photos for personalized style
 - **Interactive Configuration**: Customizable cake options (size, flavor, icing, decorations)
 - **Dynamic Pricing Engine**: Automated quotes based on baker-defined rules
+- **Production Planning**: Multi-day prep scheduling with component timing and batch calculations
 - **Instant Booking & Payment**: Integrated payment processing with Stripe
-- **Baker Dashboard**: Manage pricing, orders, and calendar
+- **Baker Dashboard**: Manage pricing, orders, calendar, and production
+- **Community Features** (Phase 4): Baker gallery, social feed, forum, inspiration requests, matching
 
 ## Tech Stack
 
@@ -40,6 +43,9 @@ See [SETUP.md](./SETUP.md) for detailed installation and deployment instructions
 - [Database Schema](./docs/DATABASE_SCHEMA.md)
 - [API Documentation](./docs/API.md)
 - [Component Diagram](./docs/COMPONENTS.md)
+- [Production Planning](./docs/PRODUCTION_PLANNING.md)
+- [Monetization Strategy](./docs/MONETIZATION.md)
+- [Community Features](./docs/COMMUNITY_FEATURES.md) - Gallery, Feed, Forum (Phase 4)
 
 ## License
 

@@ -151,6 +151,16 @@ External Services:
 - `ingredient_batches` - Batch ingredient calculations
 - `prep_templates` - Reusable prep task templates
 
+**Community & Social** (Phase 4 - see COMMUNITY_FEATURES.md):
+- `gallery_photos` - Public baker gallery with pinned photos
+- `inspiration_requests` - Customer inspiration requests from gallery
+- `feed_posts` - Social feed posts by bakers
+- `post_likes`, `post_comments`, `saved_posts` - Feed engagement
+- `follows` - Following system between bakers
+- `forum_categories`, `forum_threads`, `forum_replies` - Community forum
+- `reply_votes` - Forum voting system
+- `direct_messages` - Baker-to-baker messaging
+
 See [DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md) for detailed schema.
 
 ### 4. External Services
@@ -274,13 +284,51 @@ See [DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md) for detailed schema.
 
 ## Future Enhancements
 
+### Phase 1-3 (Implemented in roadmap)
 1. **Multi-baker marketplace**: Connect customers with multiple bakers
 2. **3D cake preview**: Interactive 3D model generation
 3. **Recipe management**: Baker recipe library
-4. **Customer gallery**: Portfolio of completed cakes
-5. **Reviews & ratings**: Customer feedback system
-6. **Subscription plans**: Premium features for bakers
-7. **Mobile app**: Native iOS/Android applications
-8. **Real-time chat**: Customer-baker messaging
-9. **Inventory management**: Ingredient tracking
-10. **Analytics dashboard**: Business insights for bakers
+4. **Reviews & ratings**: Customer feedback system
+5. **Mobile app**: Native iOS/Android applications
+6. **Inventory management**: Ingredient tracking
+
+### Phase 4 - Community & Social Features (See COMMUNITY_FEATURES.md)
+7. **Baker Gallery System**: 
+   - Public gallery for each baker with unlimited photos (Premium)
+   - Pin up to 5 signature cakes to profile
+   - Customer inspiration browsing with filters
+   - Inspiration request system (customer finds cake → requests quote)
+   
+8. **Social Feed**:
+   - Share completed cakes, tutorials, questions
+   - Like, comment, save posts
+   - Follow other bakers
+   - Hashtags and discovery algorithm
+   - Premium: Post unlimited, Free: View only
+
+9. **Community Forum**:
+   - Categories: Techniques, Business, Troubleshooting, Show & Tell
+   - Q&A format with upvoting
+   - Mark solutions
+   - Search and threading
+   - Premium: Post/reply, Free: View only
+
+10. **Direct Messaging**:
+    - Baker-to-baker communication
+    - Share photos and tips
+    - Group messages
+    - Premium feature
+
+11. **Matching Service** (Future):
+    - Algorithm matches customers with bakers
+    - Based on: location, style, availability, budget, ratings
+    - Customer sees top matches with galleries
+    - Send requests to multiple bakers
+    - Compare quotes and book
+
+**Community Benefits**:
+- Increases platform stickiness (daily engagement)
+- Reduces churn through baker connections
+- Drives word-of-mouth growth
+- Creates additional premium subscription value
+- Inspiration browsing converts to bookings

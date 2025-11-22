@@ -248,11 +248,21 @@ Example workflow:
 - [ ] Marketing site
 
 ### Phase 4 - Growth (Months 10-12)
-- [ ] Template library
-- [ ] Recipe management
-- [ ] Multi-baker marketplace
+- [ ] Baker gallery system with pinned photos
+- [ ] Customer inspiration browsing and requests
+- [ ] Social feed (posts, likes, comments, following)
+- [ ] Community forum (Q&A, voting, categories)
+- [ ] Direct messaging between bakers
+- [ ] Baker-customer matching algorithm
 - [ ] Mobile app
 - [ ] API for integrations
+
+**Community Features Benefits**:
+- Creates daily engagement (vs monthly for bookings only)
+- Builds baker-to-baker connections
+- Drives word-of-mouth growth
+- Inspiration browsing converts to bookings
+- Additional premium subscription value
 
 ## Technical Challenges & Solutions
 
@@ -407,8 +417,8 @@ Example workflow:
 ## Long-term Vision
 
 **Year 1**: Single-baker SaaS platform
-**Year 2**: Multi-baker marketplace
-**Year 3**: Full business operating system for bakers
-**Year 5**: Industry standard for custom cake businesses
+**Year 2**: Add community features (gallery, feed, forum) for engagement
+**Year 3**: Multi-baker marketplace with matching algorithm
+**Year 5**: Industry-standard platform with thriving baker community
 
-**Mission**: Empower bakers to grow profitable businesses by eliminating admin work and showcasing their artistry through AI-powered tools.
+**Mission**: Empower bakers to grow profitable businesses by eliminating admin work, showcasing their artistry through AI, and connecting them with customers and fellow bakers.
