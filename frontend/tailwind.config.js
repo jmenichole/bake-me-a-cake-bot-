@@ -1,3 +1,10 @@
+/**
+ * BOT (Baked On Time) - Tailwind CSS Configuration
+ * 
+ * Copyright (c) 2025 BOT (Baked On Time)
+ * Licensed under the MIT License
+ */
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],

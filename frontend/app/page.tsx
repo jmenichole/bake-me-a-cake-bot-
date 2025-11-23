@@ -1,3 +1,12 @@
+/**
+ * BOT (Baked On Time) - Home Page Component
+ * 
+ * Copyright (c) 2025 BOT (Baked On Time)
+ * Licensed under the MIT License
+ * 
+ * AI-Powered Cake Design & Booking Platform for Professional Bakers
+ */
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">

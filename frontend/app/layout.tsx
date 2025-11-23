@@ -1,3 +1,12 @@
+/**
+ * BOT (Baked On Time) - Frontend Layout Component
+ * 
+ * Copyright (c) 2025 BOT (Baked On Time)
+ * Licensed under the MIT License
+ * 
+ * AI-Powered Cake Design & Booking Platform for Professional Bakers
+ */
+
 import './globals.css'
 import { Inter, Playfair_Display } from 'next/font/google'
 import type { Metadata } from 'next'

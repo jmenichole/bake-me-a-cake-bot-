@@ -1,3 +1,12 @@
+/**
+ * BOT (Baked On Time) - Backend API Server
+ * 
+ * Copyright (c) 2025 BOT (Baked On Time)
+ * Licensed under the MIT License
+ * 
+ * AI-Powered Cake Design & Booking Platform for Professional Bakers
+ */
+
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
