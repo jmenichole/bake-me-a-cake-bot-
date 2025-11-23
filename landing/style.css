@@ -41,22 +41,22 @@ h1, h2, h3 {
 }
 
 .hero-title {
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 900;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     color: #3C2F2F;
 }
 
 .hero-subtitle {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     opacity: 0.8;
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
 }
 
 .section-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
     color: #3C2F2F;
 }
 
@@ -106,10 +106,10 @@ section {
 
 .btn {
     display: inline-block;
-    padding: 1rem 2rem;
+    padding: 1.25rem 2.5rem;
     border-radius: 0.75rem;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.125rem;
     text-decoration: none;
     transition: all 0.3s ease;
     cursor: pointer;
@@ -171,7 +171,7 @@ section {
 
 .feature-card {
     background-color: #FFF5EC;
-    padding: 2rem;
+    padding: 2.5rem;
     border-radius: 1rem;
     box-shadow: 0 4px 12px rgba(60, 47, 47, 0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -197,14 +197,14 @@ section {
 }
 
 .feature-title {
-    font-size: 1.5rem;
-    margin-bottom: 0.75rem;
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
     color: #3C2F2F;
 }
 
 .feature-description {
-    font-size: 1rem;
-    line-height: 1.6;
+    font-size: 1.125rem;
+    line-height: 1.7;
     opacity: 0.85;
 }
 
@@ -217,9 +217,9 @@ section {
 }
 
 .product-text {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
     line-height: 1.8;
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto 3rem;
     text-align: center;
     opacity: 0.9;
@@ -236,16 +236,16 @@ section {
 .benefit-item {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    font-size: 1.125rem;
-    padding: 1rem;
+    gap: 1.25rem;
+    font-size: 1.25rem;
+    padding: 1.25rem;
     background-color: #FFFFFF;
     border-radius: 0.75rem;
     box-shadow: 0 2px 8px rgba(60, 47, 47, 0.06);
 }
 
 .benefit-icon {
-    font-size: 1.75rem;
+    font-size: 2rem;
     flex-shrink: 0;
 }
 
@@ -259,7 +259,7 @@ section {
 }
 
 .signup-subtitle {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
     opacity: 0.75;
     margin-bottom: 3rem;
 }
@@ -285,10 +285,10 @@ section {
 
 .form-input {
     width: 100%;
-    padding: 1rem 1.25rem;
+    padding: 1.125rem 1.5rem;
     border: 2px solid #E5D4C1;
     border-radius: 0.75rem;
-    font-size: 1rem;
+    font-size: 1.125rem;
     font-family: 'Inter', sans-serif;
     background-color: #FFFFFF;
     color: #3C2F2F;
